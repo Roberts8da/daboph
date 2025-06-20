@@ -1,8 +1,8 @@
 {
-  "name": "node-xhttp",
+  "name": "myapp",
   "version": "1.0.0",
   "description": "nodejs",
-  "author": "eooce",
+  "author": "",
   "repository": "",
   "license": "MIT",
   "private": false,
